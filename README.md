@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java or Python learning
 - 🌱 I’m currently learning Java and studying Software Engineering
 - 💞️ I’m looking to collaborate on small projects in order to get skills in programming
-- 📫 How to reach me, through my e-mail 01101100_01101010@protonmail.com
+- 📫 How to reach me, through my e-mail jimenezrod.luis@proton.me
 
 Thank you so much for your help
 
